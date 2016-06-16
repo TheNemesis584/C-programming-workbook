@@ -6,7 +6,7 @@
 //                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////
 
-/* The user enters the numbers on keayboard until he enter 0 ( zero ). Program needs to print out
+/* The user enters the numbers on keyboard until he enter 0 ( zero ). Program needs to print out
 in the console arithmetic mean of the inputed numbers */
 
 #include<stdio.h>
