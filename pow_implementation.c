@@ -1,15 +1,15 @@
-/* Napisati program koji implementuje funkciju pow(a, n), to jest racuna
-vrijednost a^n */
+/* Write a program which imeplements a function pow, ie. calculating a value of a^n */
 
-#include<stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
     {
         int a, n, i, k = 1;
 
-        printf("Unesi a: ");
+        printf("Enter a: ");
         scanf("%d", &a);
-        printf("Unesi n: ");
+        printf("Enter n: ");
         scanf("%d", &n);
 
         for(i = 1; i <= n; i++)
