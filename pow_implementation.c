@@ -1,3 +1,11 @@
+//////////////////////////////////////////////////////////////////////////////////////
+//Banja Luka                                                                        //
+//Bosnia and Herzegovina                                                            //
+//                                                                                  //
+//author: Djordje Topic - student of Faculty of Electrical Engineering - Banja Luka //
+//                                                                                  //
+//////////////////////////////////////////////////////////////////////////////////////
+
 /* Write a program which imeplements a function pow, ie. calculating a value of a^n */
 
 #include <stdio.h>
